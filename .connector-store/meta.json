@@ -1,0 +1,19 @@
+{
+    "name": "extrema",
+    "owner": "WSO2",
+    "category": "Siddhi Execution",
+    "documentationUrl": "https://wso2-extensions.github.io/siddhi-execution-extrema/",
+    "description": "The siddhi-execution-extrema extension is an extension to Siddhi that processes event streams based on different arithmetic properties. Different types of processors are available to extract the extremas from the event streams according to the specified attribute in the stream.",
+    "status": "Active",
+    "labels": [
+        "siddhi",
+        "siddhi-execution",
+        "extrema"
+    ],
+    "releases": [
+        {
+            "tagName": "4.1.1",
+            "products": []
+        }
+    ]
+}
